@@ -1,6 +1,6 @@
 [submodule "snippets"]
 	path = snippets
-	url = git://github.com/asux/snipmate-snippets.git
+	url = git://github.com/honza/snipmate-snippets.git
   ignore = dirty
 [submodule "bundle/rails"]
 	path = bundle/rails
@@ -49,10 +49,6 @@
 [submodule "bundle/endwise"]
 	path = bundle/endwise
 	url = git://github.com/tpope/vim-endwise.git
-  ignore = dirty
-[submodule "bundle/snipmate"]
-	path = bundle/snipmate
-	url = git://github.com/akitaonrails/snipmate.vim.git
   ignore = dirty
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
@@ -199,3 +195,6 @@
 [submodule "bundle/vim-ruby-run"]
 	path = bundle/vim-ruby-run
 	url = https://github.com/stjernstrom/vim-ruby-run
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git://github.com/garbas/vim-snipmate.git
